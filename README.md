@@ -3,4 +3,4 @@
 ## Production
 
 Execute the following command from zulfiqarjunejo directory
-`ng build --prod --output-path ../dist --base-href .`
+`./build.sh`
